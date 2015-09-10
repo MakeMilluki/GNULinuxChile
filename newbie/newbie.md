@@ -54,6 +54,7 @@ Una de la particularidad de GNU/Linux es que puedes resucitar tu computador viej
  - SliTaz http://www.slitaz.org/en/
  - LXLE http://lxle.net/
  - Bodhi Linux http://www.bodhilinux.com/
+
 ### Distros basada en ciertos hobbies
 Otra particularidad de las distros es que, hay comunidad que hacen distros para ciertas especialidades y hobbies que hay, tales como: música, astronomía, diseño, etc.
  - Distro Astro http://www.distroastro.org/
